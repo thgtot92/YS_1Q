@@ -5,3 +5,5 @@ pip install requests beautifulsoup4 pandas numpy pytz openai groq google-generat
 https://api.slack.com/messaging/webhooks 접속하여 URL 생성.
 # llm 모델들은 각각 사이트 들어가서 
 groq(LLAMA), Gemini(google), GPT (open api) 생성해서 넣어주면 됨.
+# naver api 신
+https://developers.naver.com/apps/#/myapps/JEuS9xkuWGpP40lsI9Kz/overview
